@@ -1,0 +1,7 @@
+{
+    "compilerOptions": {
+        "outDir": "dist",
+        "noEmitOnError": false //Para informar que não é pra gerar o js caso tenha erros de compilação 
+        
+    }
+}
