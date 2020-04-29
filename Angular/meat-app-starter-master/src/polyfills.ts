@@ -18,3 +18,8 @@ import 'core-js/es6/reflect';
 import 'core-js/es7/reflect';
 import 'zone.js/dist/zone';
 
+//Responsavel por tonar padrões de valores brasileiros com uso de ',' ao invés de '.'.
+import 'intl';
+import 'intl/locale-data/jsonp/pt-BR.js'
+
+
